@@ -11,4 +11,14 @@ Assuming your going to discuss the following terms with a boda guy with exampgil
 9. Block of code
 10. Data type
 11. Declaring
-12. Intialising
+
+2. Assignmet
+Write a python code that asks a user to input the foolowing information;
+1.name
+2.age
+3.location
+4.phone number
+5.track(pyhton or javascript)
+6.cohort
+If someone is below 15, the computer should they're "not eligible any programme".
+If there track is neither python or javascript, the computer should say "not eligible for CSE". 
