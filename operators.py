@@ -4,7 +4,7 @@ a=7
 b=3
 #adds
 print("sum",a+b)
-#divides
+#divides and gives an answer closest to the whole number
 print("floor div", a//b)
 #gives the remainder after dividing
 print("modulo", a%b)

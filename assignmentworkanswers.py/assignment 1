@@ -1,0 +1,51 @@
+Answers to assignment 1
+
+Given I am talking to an actual boda guy
+1. Programming is the process of giving instructions to a computer so it knows what to do.
+For example, when your customer passenger tells you where they want to go, a programmer tells a computer what task to perform.
+
+2. Relationship Between CPU, RAM and Hard Disk
+Together, the CPU, RAM, and Hard Disk work together to process and store information.
+The CPU is like the brain of the computer, so it thinks for it.
+RAM is a temporary place where data is stored when it's needed by the CPU.
+The hard disk is a permanent location where data is kept on a computer.
+
+3. A memory address is the name of the location where data is stored in a computer's memory to ease the finding of needed data. 
+For example, when your customer tells u to take them to Kampala at City Square. Kampala is the memory, and City Square is the memory address
+
+4. Memory partitioning is dividing memory into different sections so that different programs can easily access. These sections are the ones given memory addresses.
+
+5. A variable is a named container used to store data in a program.
+For example, like your fuel tank holds fuel, a variable holds data.
+Now in Python:
+name = "Shatrah"
+where name is the variable and "Shatrah" is the data kept in it.
+
+6. A statement is a single instruction given to a computer, telling it what to do.
+For example, when your customer tells you to take them to town, it’s a one-line instruction 
+Then for Python;
+print("Hello") is a statement
+
+
+7. A module is a file that contains code and functions related and ready to be used.
+
+8. Code is a set of instructions written by a programmer for a computer to follow.
+For example, when directions are given to you, the rider to reach a destination, like directions from Ggaba to Bunga.
+
+9. A block of code is a group of statements that work together to perform a given task.
+
+10. A data type tells the computer what kind of data is being stored.
+Common data types:
+a.	Numeric data (integers and floats) that is our whole numbers and numbers with decimals, e.g., 10 and 10.5
+b.	Strings (anything put in single or double quotations)
+c.	Boolean (these confirm whether it is the truth or a lie) using true or false
+
+11. Declaring is creating or introducing a variable to a program.
+In Python:
+Name (The variable name has been introduced.)
+
+12. Initialising is giving a variable its first value.
+Now in Python, when we write 
+name = "Shatrah"
+The variable name is given its first value.
+
