@@ -1,5 +1,5 @@
-Personal assignment
-A. Assuming your going to discuss the following terms with a boda guy with exampgiles define the following;
+Personal assignments
+a. Assuming your going to discuss the following terms with a boda guy with exampgiles define the following;
 1. Programming
 2. Relation between CPU, RAM and Hard disk
 3. Memory address
@@ -12,7 +12,7 @@ A. Assuming your going to discuss the following terms with a boda guy with examp
 10. Data type
 11. Declaring
 
-B. Assignmet
+b. Assignmet
 Write a python code that asks a user to input the following information;
 1.name
 2.age
@@ -23,6 +23,9 @@ Write a python code that asks a user to input the following information;
 If someone is below 15, the computer should they're "not eligible any programme".
 If there track is neither python or javascript, the computer should say "not eligible for CSE". 
 
-C1 Create a function that accepts input.
+c. Assignment 
 2. with at least 2 examples for each explain in the simplest way possible all operators (its definition, examples and examples for each)
+
+d. Assignment 
+Putting into consideration a mamrket vender,with examples discuss the concept of function.
 
