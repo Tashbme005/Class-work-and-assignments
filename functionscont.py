@@ -26,9 +26,14 @@ mynamev3("Shatrah", 17)
 #A funtion was meant to work with others however its conservative in nature eg one solution can require a group of functionalities
 
 #we are using the return to connect these function together
+#when this is put in a class it becomes a method
 def grosspay(pay):
     #the return statement allows a function to share a value outside of it
     #it also marks the end of execution of a function
+    '''
+    this becomes a behavior wen the complete function 
+    is it in a class since its a statement
+    '''
     return pay
     
 def tax(rate):
